@@ -52,13 +52,13 @@ const Login = () => {
       <header className="px-12 py-8">
         <div className="logo">
           <Link to="/">
-            <img src="/assets/white_logo.png" width={120} alt="" />
+            <img src="https://sugomusic.com/wp-content/uploads/2023/06/JioSaavn-Music-For-Musicians-The-Ultimate-Marketing-Guide-2.png" width={120} alt="" />
           </Link>
         </div>
       </header>
       <div className="bg-[#1a1919] py-10 w-full">
         <div className="bg-black py-10 text-center w-1/2 mx-auto">
-          <h1 className="text-5xl my-12 font-semibold">Log in to Spotify</h1>
+          <h1 className="text-5xl my-12 font-semibold">Log in to JioSaavn</h1>
           <div className="border-b border-gray-400 w-3/4 my-4 mx-auto"></div>
           <form onSubmit={loginUser} className="text-center mx-auto w-1/2 ">
             <div className="w-full text-left py-4">
@@ -122,7 +122,7 @@ const Login = () => {
               to="/signup"
               className="text-white hover:text-green-500 font-semibold underline mx-auto"
             >
-              Sign up for Spotify
+              Sign up for JioSaavn
             </Link>
           </p>
         </div>

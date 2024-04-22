@@ -98,7 +98,7 @@ const Signup = () => {
         <div className="logo text-center">
           <Link to="/">
             <img
-              src="/assets/s_logo_black.png"
+              src="https://sugomusic.com/wp-content/uploads/2023/06/JioSaavn-Music-For-Musicians-The-Ultimate-Marketing-Guide-2.png"
               className="mx-auto"
               width={140}
               alt=""
@@ -287,7 +287,7 @@ const Signup = () => {
                   />
                   <p className="text-sm">
                     I would prefer not to receive marketing messages from
-                    Spotify
+                    JioSaavn
                   </p>
                 </div>
                 <div className="my-4 flex items-center gap-4">
@@ -298,22 +298,22 @@ const Signup = () => {
                     id=""
                   />
                   <p className="text-sm">
-                    Share my registration data with Spotify's content providers
+                    Share my registration data with JioSaavn's content providers
                     for marketing purposes.
                   </p>
                 </div>
                 <p className="my-4 text-xs">
                   By clicking on sign-up, you agree to{" "}
                   <Link to="/" className="text-green-400">
-                    Spotify's Terms and Condition
+                    JioSaavn's Terms and Condition
                   </Link>{" "}
                   of Use.
                 </p>
                 <p className="my-4 text-xs">
-                  To learn more about how Spotify collects, uses, shares and
+                  To learn more about how JioSaavn collects, uses, shares and
                   protects your personal data, please see
                   <Link to="/" className="text-green-400">
-                    Spotify's Privacy Policy.
+                    JioSaavn's Privacy Policy.
                   </Link>{" "}
                 </p>
               </div>
